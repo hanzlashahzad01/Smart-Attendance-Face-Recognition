@@ -56,3 +56,5 @@ streamlit run admin_panel/app.py
 ```
 How to run:
         py -3.10 -m streamlit run smart-face-attendance/admin_panel/app.py
+
+Contact information:
