@@ -57,4 +57,14 @@ streamlit run admin_panel/app.py
 How to run:
         py -3.10 -m streamlit run smart-face-attendance/admin_panel/app.py
 
-Contact information:
+## 📬 Connect with Me
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+Email: hanzlashahzadhanzlashahzad@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/hanzla-shahzad
+
+GitHub: https://github.com/hanzlashahzad01/hanzlashahzad01
+
+Made by Hanzla Shahzad
+
